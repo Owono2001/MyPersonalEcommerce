@@ -50,4 +50,3 @@ Deployment: Docker (Planned)
 
 📧 Developer: Pedro Fabian Owono Ondo Mangue🔗 GitHub: @Owono2001📌 For any inquiries, feel free to reach out or create an issue!
 
-📜 License: MIT License | 📌 Feel free to modify and improve!
