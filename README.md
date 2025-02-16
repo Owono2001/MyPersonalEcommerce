@@ -20,7 +20,7 @@
 
 🎥 Watch the Demo Below
 
-![Demo](videos/demo.gif)
+![Demo](videos/demo1.gif)
 
 📂 Tech Stack
 
