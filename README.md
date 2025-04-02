@@ -39,7 +39,7 @@ Security is paramount in this project. Key implemented measures include:
 
 Check out a quick glimpse of the current functionality:
 
-*(Ensure the `demo.gif` file is present in a `videos` folder within your repository for this link to work, or update the path)*
+
 ![E-commerce Demo GIF](videos/demo.gif)
 
 ---
